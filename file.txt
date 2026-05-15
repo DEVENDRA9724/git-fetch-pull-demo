@@ -2,3 +2,4 @@ Line 1 - initial content
 Line 2 - second content
 Line 3 - added directly on GitHub
 Line 4 - added for pull demo
+Line 5 - added from VS Code
